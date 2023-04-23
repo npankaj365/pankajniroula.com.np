@@ -1,7 +1,7 @@
 ---
 title: "Now"
 date: 2023-04-21
-summary: "What am Pankaj upto now?"
+summary: "What is Pankaj up to now?"
 layout: about
 ---
 
