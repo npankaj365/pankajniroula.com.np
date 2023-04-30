@@ -31,13 +31,13 @@ theme = "hugo-digital-garden-theme"
     url = "/garden/"
     weight = 1
   [[menu.main]]
-    name = "Projects"
-    url = "/projects/"
+    name = "Links"
+    url = "/links/"
     weight = 2
   [[menu.main]]
     name = "Library"
     url = "/library/"
-    weight = 3
+    weight = 4
   [[menu.main]]
     name = "About"
     url = "/about/"
@@ -50,6 +50,7 @@ theme = "hugo-digital-garden-theme"
 
 [taxonomies]
   garden_tags = 'garden_tags'
+  link_tags = 'link_tags'
   project_tags = 'project_tags'
   library_tags = 'library_tags'
 
